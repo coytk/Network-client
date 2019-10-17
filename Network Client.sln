@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Network Client", "Network Client\Network Client.vcxproj", "{519C7DC9-DA41-435B-87AD-96E738B45240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Debug|x64.ActiveCfg = Debug|x64
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Debug|x64.Build.0 = Debug|x64
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Debug|x86.ActiveCfg = Debug|Win32
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Debug|x86.Build.0 = Debug|Win32
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Release|x64.ActiveCfg = Release|x64
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Release|x64.Build.0 = Release|x64
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Release|x86.ActiveCfg = Release|Win32
+		{519C7DC9-DA41-435B-87AD-96E738B45240}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69DBC3AC-154C-4BC3-A956-AD60A4E74E58}
+	EndGlobalSection
+EndGlobal
